@@ -3,9 +3,9 @@
   Hi there, I'm Hossein Ghelichkhani 👋
 </h1>
 
-<!-- Professional Bio -->
+<!-- Professional & Aspirational Bio -->
 <h3 align="center">
-  Full-Stack Developer with a passion for building robust backends with Python & Django. As a recent Computer Science graduate, I'm eager to apply my skills and continuously learn new technologies.
+  Software Developer specializing in Python & Django. Eagerly expanding my skills into frontend development to create seamless user experiences.
 </h3>
 
 <br>
@@ -15,6 +15,7 @@
 - 🌱 I’m focused on deepening my **Frontend Development** skills, especially with modern JavaScript frameworks.
 - 💬 Ask me about **Python, Django, and C++**.
 - 📫 How to reach me: You can connect with me on LinkedIn!
+- ⚡ Fun fact: **[ADD A FUN FACT ABOUT YOURSELF HERE, e.g., I can solve a Rubik's cube!]**
 
 <br>
 
