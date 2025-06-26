@@ -54,18 +54,6 @@
 </p>
 
 <br>
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hosseinghDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="hosseinghDev's GitHub Stats"/>
-  <br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinghDev&layout=compact&langs_count=8&theme=dark" alt="hosseinghDev's Top Languages"/>
-</p>
-
-<br>
-
 <!-- Socials Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
