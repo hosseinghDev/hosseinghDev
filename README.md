@@ -15,7 +15,6 @@
 - 🌱 I’m focused on deepening my **Frontend Development** skills, especially with modern JavaScript frameworks.
 - 💬 Ask me about **Python, Django, and C++**.
 - 📫 How to reach me: You can connect with me on LinkedIn!
-- ⚡ Fun fact: **[ADD A FUN FACT ABOUT YOURSELF HERE, e.g., I can solve a Rubik's cube!]**
 
 <br>
 
