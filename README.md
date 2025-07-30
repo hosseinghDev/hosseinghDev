@@ -86,5 +86,5 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hosseinghDev/hosseinghDev/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hosseinghDev/hosseinghDev/output/github-snake.svg" alt="Snake animation" />
 </div>
