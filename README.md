@@ -10,11 +10,31 @@
 
 <br>
 
+<!-- GitHub Stats & Languages -->
+<div align="center">
+  <h3 align="center">My GitHub Stats & Activity</h3>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hosseinghDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hossein's GitHub Stats" />
+  </a>
+  <!-- Most Used Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinghDev&layout=compact&theme=tokyonight&hide_border=true" alt="Hossein's Top Languages" />
+  </a>
+  <br>
+  <!-- Development Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinghDev&bg_color=1A1B27&color=79f8f8&line=79f8f8&point=c9c9c9&area=true&hide_border=true" alt="Hossein's Contribution Graph" />
+  </a>
+</div>
+
+<br>
+
 <!-- About Me Section -->
 - 🔭 I’m currently building out my portfolio with new and exciting projects.
 - 🌱 I’m focused on deepening my **Frontend Development** skills, especially with modern JavaScript frameworks.
 - 💬 Ask me about **Python, Django, and C++**.
-- 📫 How to reach me: You can connect with me on LinkedIn!
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://linkedin.com/in/hossein-ghelichkhani-29aa93221)!
 
 <br>
 
@@ -61,3 +81,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-ghelichkhani" height="30" width="40" />
   </a>
 </p>
+
+<hr>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hosseinghDev/hosseinghDev/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
