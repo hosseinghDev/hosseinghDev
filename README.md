@@ -13,7 +13,7 @@
 <!-- About Me Section -->
 - 🔭 I’m currently building out my portfolio with new and exciting projects.
 - 🌱 I’m focused on deepening my **Frontend Development** skills, especially with modern JavaScript frameworks.
-- 💬 Ask me about **Python, Django, and C++**.
+- 💬 Ask me about **Python, Django, C# and .NET**.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://linkedin.com/in/hossein-ghelichkhani-29aa93221)!
 
 <br>
@@ -48,15 +48,15 @@
       <h4><strong>Backend</strong></h4>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,django" />
+          <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4><strong>Frontend</strong></h4>
+      <h4><strong>Frontend & Mobile</strong></h4>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,html,css" />
+          <img src="https://skillicons.dev/icons?i=js,html,css,maui" />
         </a>
       </p>
     </td>
