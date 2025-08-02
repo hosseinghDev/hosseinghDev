@@ -6,7 +6,6 @@ HEADER: STYLED CAPSULE BANNER
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C7FF&height=175§ion=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
-
 <!-- 
 ======================================================================
 WELCOME BANNER
@@ -15,7 +14,6 @@ WELCOME BANNER
 <div align="center">
   <img src="https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg" alt="Welcome Banner"/>
 </div>
-
 <!-- 
 ======================================================================
 INTRO
@@ -23,15 +21,12 @@ INTRO
 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=850&lines=Backend+Developer+%26+Cybersecurity+Enthusiast&cache_bust=1" alt="Main Title" />
-</div>
-<div align="center">
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00C7FF¢er=true&vCenter=true&width=850&lines=Building+Secure+%26+Scalable+Systems;Passionate+about+Clean+Architecture" alt="Description" />
-</div>
-<div align="center">
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=E6E6E6¢er=true&vCenter=true&width=850&lines=Core+Stack%3A+Python,+Django,+C%23,+.NET;Exploring%3A+Windows+Internals+%26+Web+Security" alt="Skills" />
 </div>
 <br>
-
 <!-- 
 ======================================================================
 TECH STACK SECTION 
@@ -80,31 +75,26 @@ TECH STACK SECTION
   </tr>
 </table>
 <br>
-
 <!-- 
 ======================================================================
 GITHUB STATS SECTION 
 ======================================================================
 -->
 <h2 align="center">📈 My GitHub Stats & Activity</h2>
-
 <div align="center">
   <!-- GitHub Stats Card (FIXED URL) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosseinghDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00C7FF&text_color=E6E6E6"/>
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinghDev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6"/>
 </div>
-
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinghDev&theme=black-ice&hide_border=true&background=0D1117&stroke=39FF14&ring=00C7FF&fire=39FF14"/>
 </div>
-
 <div align="center">
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinghDev&bg_color=0D1117&color=39FF14&line=00C7FF&point=E6E6E6&area=true&hide_border=true"/>
 </div>
-
 <!-- 
 ======================================================================
 SNAKE ANIMATION
@@ -113,7 +103,6 @@ SNAKE ANIMATION
 <div align="center">
   <img src="https://raw.githubusercontent.com/hosseinghDev/hosseinghDev/output/github-snake.svg" alt="Snake animation" />
 </div>
-
 <!-- 
 ======================================================================
 FOOTER
