@@ -1,45 +1,40 @@
-<!-- Centered Header with Waving Hand Emoji -->
-<h1 align="center">
-  Hi there, I'm Hossein Ghelichkhani 👋
-</h1>
-
-<!-- Professional & Aspirational Bio -->
-<h3 align="center">
-  Software Developer specializing in Python & Django. Eagerly expanding my skills into frontend development to create seamless user experiences.
-</h3>
-
-<br>
-
-<!-- About Me Section -->
-- 🔭 I’m currently building out my portfolio with new and exciting projects.
-- 🌱 I’m focused on deepening my **Frontend Development** skills, especially with modern JavaScript frameworks.
-- 💬 Ask me about **Python, Django, C# and .NET**.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://linkedin.com/in/hossein-ghelichkhani-29aa93221)!
-
-<br>
-
-<!-- GitHub Stats & Languages -->
+<!-- 
+======================================================================
+HEADER: STYLED CAPSULE BANNER
+======================================================================
+-->
 <div align="center">
-  <h3 align="center">My GitHub Stats & Activity</h3>
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hosseinghDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hossein's GitHub Stats" />
-  </a>
-  <!-- Most Used Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinghDev&layout=compact&theme=tokyonight&hide_border=true" alt="Hossein's Top Languages" />
-  </a>
-  <br>
-  <!-- Development Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinghDev&bg_color=1A1B27&color=79f8f8&line=79f8f8&point=c9c9c9&area=true&hide_border=true" alt="Hossein's Contribution Graph" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C7FF&height=175§ion=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
 
+<!-- 
+======================================================================
+WELCOME BANNER
+======================================================================
+-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg" alt="Welcome Banner"/>
+</div>
+
+<!-- 
+======================================================================
+INTRO
+======================================================================
+-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=39FF14¢er=true&vCenter=true&width=650&lines=%20%20%20%20Backend+Developer%20%20%20%20;Cybersecurity+Enthusiast" alt="Title Typing" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00C7FF¢er=true&vCenter=true&width=900&height=100&lines=Building+with%3A+Python,+Django,+C%23,+.NET;Exploring%3A+Windows+Internals+%26+Web+Bug+Bounties;Passionate+about+Secure+Architecture" alt="Description Typing" />
+</div>
 <br>
 
-<!-- Tech Stack Section -->
-<h3 align="center">🛠️ My Tech Stack & Tools 🛠️</h3>
+<!-- 
+======================================================================
+TECH STACK SECTION 
+======================================================================
+-->
+<h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
 <br>
 <table align="center" width="80%">
   <!-- Row 1 -->
@@ -81,20 +76,46 @@
     </td>
   </tr>
 </table>
-
-
 <br>
-<!-- Socials Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hossein-ghelichkhani-29aa93221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossein-ghelichkhani" height="30" width="40" />
-  </a>
-</p>
 
-<hr>
+<!-- 
+======================================================================
+GITHUB STATS SECTION 
+======================================================================
+-->
+<h2 align="center">📈 My GitHub Stats & Activity</h2>
 
-<!-- Snake Animation -->
+<div align="center">
+  <!-- GitHub Stats Card (FIXED URL) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosseinghDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00C7FF&text_color=E6E6E6"/>
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinghDev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6"/>
+</div>
+
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinghDev&theme=black-ice&hide_border=true&background=0D1117&stroke=39FF14&ring=00C7FF&fire=39FF14"/>
+</div>
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinghDev&bg_color=0D1117&color=39FF14&line=00C7FF&point=E6E6E6&area=true&hide_border=true"/>
+</div>
+
+<!-- 
+======================================================================
+SNAKE ANIMATION
+======================================================================
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/hosseinghDev/hosseinghDev/output/github-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- 
+======================================================================
+FOOTER: MR. ROBOT THEME (FIXED)
+======================================================================
+-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C7FF&height=150§ion=footer&text=Every%20keystroke%20is%20a%20choice...%20The%20world%20is%20just%20a%20script%20you%20can%20rewrite.%20%F0%9F%A4%96&fontSize=18&fontAlignY=45&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
 </div>
