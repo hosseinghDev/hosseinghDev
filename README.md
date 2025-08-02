@@ -4,7 +4,7 @@ HEADER: STYLED CAPSULE BANNER
 ======================================================================
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C7FF&height=175§ion=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=550&lines=Hello,+friend._" alt="Hello, friend."/>
 </div>
 <!-- 
 ======================================================================
@@ -109,5 +109,5 @@ FOOTER
 ======================================================================
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00C7FF&height=150§ion=footer&text=Every%20keystroke%20is%20a%20choice...%20The%20world%20is%20just%20a%20script%20you%20can%20rewrite.%20%F0%9F%A4%96&fontSize=18&fontAlignY=45&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=1000&color=39FF14&background=0D1117¢er=true&vCenter=true&width=800&height=100&lines=%3E+init_thought.sh;%3E+A+bug+is+never+just+a+mistake...;%3E+It+represents+something+bigger.%7C" alt="Terminal Animation Footer" />
 </div>
