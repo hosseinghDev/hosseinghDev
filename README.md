@@ -22,7 +22,7 @@ INTRO
 ======================================================================
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=39FF14¢er=true&vCenter=true&width=650&lines=%20%20%20%20Backend+Developer%20%20%20%20;Cybersecurity+Enthusiast" alt="Title Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=650&lines=%C2%A0%C2%A0%C2%A0%C2%A0Backend+Developer%C2%A0%C2%A0%C2%A0%C2%A0;Cybersecurity+Enthusiast" alt="Title Typing" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00C7FF¢er=true&vCenter=true&width=900&height=100&lines=Building+with%3A+Python,+Django,+C%23,+.NET;Exploring%3A+Windows+Internals+%26+Web+Bug+Bounties;Passionate+about+Secure+Architecture" alt="Description Typing" />
